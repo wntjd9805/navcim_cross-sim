@@ -1,0 +1,4 @@
+[submodule "pretrained_models"]
+	path = applications/dnn/pretrained_models
+	url = https://github.com/sandialabs/cross-sim-models.git
+	shallow = true
